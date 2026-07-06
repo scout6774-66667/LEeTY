@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
+| [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
