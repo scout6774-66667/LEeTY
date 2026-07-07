@@ -33,6 +33,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
