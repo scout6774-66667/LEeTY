@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/scout6774-66667/LEeTY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
