@@ -8,6 +8,7 @@
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -64,6 +68,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
