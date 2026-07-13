@@ -35,6 +35,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
@@ -114,14 +115,17 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
