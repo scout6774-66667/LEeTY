@@ -9,6 +9,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/scout6774-66667/LEeTY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -83,6 +85,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -92,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/scout6774-66667/LEeTY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/scout6774-66667/LEeTY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -99,6 +103,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -138,10 +143,19 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/scout6774-66667/LEeTY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scout6774-66667/LEeTY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scout6774-66667/LEeTY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
