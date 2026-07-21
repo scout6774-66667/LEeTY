@@ -71,6 +71,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -176,6 +177,7 @@
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/scout6774-66667/LEeTY/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -194,6 +196,7 @@
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/scout6774-66667/LEeTY/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Number Theory
 |  |
