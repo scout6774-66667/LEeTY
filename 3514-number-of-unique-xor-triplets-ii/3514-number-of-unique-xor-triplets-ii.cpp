@@ -1,30 +1,38 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const int MAXX = 2048;
 
-        vector<bool> dp1(MAXX, false);
-        vector<bool> dp2(MAXX, false);
-        vector<bool> dp3(MAXX, false);
+        int n = nums.size();
+        int mx = 0;
+        for (auto x : nums)
+            mx = max(mx, x);
 
-        for (int v : nums) {
-            for (int x = 0; x < MAXX; x++) {
-                if (dp2[x])
-                    dp3[x ^ v] = true;
+        // now find the power of 2 just greater than mx;
+        int u = 1;
+        while (u <= mx)
+            u <<= 1;
+
+        vector<int> s(u);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                s[nums[i] ^ nums[j]] = 1;
             }
+        }
 
+        vector<int> t(u);
 
-            for (int x = 0; x < MAXX; x++) {
-                if (dp1[x])
-                    dp2[x ^ v] = true;
-            }
+        for (int i = 0; i < u; i++) {
+            if (s[i] == 0)
+                continue;
 
-            dp1[v] = true;
+            for (auto x : nums)
+                t[x ^ i] = 1;
         }
 
         int ans = 0;
-        for (int x = 0; x < MAXX; x++) {
-            if (dp1[x] || dp3[x])
+        for (int i = 0; i < u; i++) {
+            if (t[i])
                 ans++;
         }
 
