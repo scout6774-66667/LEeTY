@@ -1,0 +1,36 @@
+class Solution {
+public:
+    vector<vector<int>> ans;
+    vector<int> path;
+
+    void dfs(TreeNode* root, int targetSum) {
+
+        if (root == NULL)
+            return;
+
+        path.push_back(root->val);
+
+        targetSum -= root->val;
+
+        // Leaf node
+        if (root->left == NULL && root->right == NULL) {
+
+            if (targetSum == 0)
+                ans.push_back(path);
+        }
+        else {
+            dfs(root->left, targetSum);
+            dfs(root->right, targetSum);
+        }
+
+        // Backtracking
+        path.pop_back();
+    }
+
+    vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+
+        dfs(root, targetSum);
+
+        return ans;
+    }
+};
