@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/scout6774-66667/LEeTY/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -260,6 +262,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/0113-path-sum-ii) |
 ## Game Theory
 |  |
