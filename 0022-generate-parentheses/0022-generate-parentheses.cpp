@@ -1,33 +1,33 @@
 class Solution {
 public:
-
     vector<string> ans;
 
-    void solve(string curr, int open, int close, int n)
-    {
-        // If the string is complete, save it
-        if (curr.length() == 2 * n)
-        {
+    void backtrack(string &curr, int open, int close, int n) {
+
+        if (curr.size() == 2 * n) {
             ans.push_back(curr);
             return;
         }
 
-        // Add '(' if we still have some left
-        if (open < n)
-        {
-            solve(curr + "(", open + 1, close, n);
+        if (open < n) {
+            curr.push_back('(');
+            backtrack(curr, open + 1, close, n);
+            curr.pop_back();
         }
 
-        // Add ')' only if it won't make the string invalid
-        if (close < open)
-        {
-            solve(curr + ")", open, close + 1, n);
+        if (close < open) {
+            curr.push_back(')');
+            backtrack(curr, open, close + 1, n);
+            curr.pop_back();
         }
     }
 
-    vector<string> generateParenthesis(int n)
-    {
-        solve("", 0, 0, n);
+    vector<string> generateParenthesis(int n) {
+
+        string curr = "";
+
+        backtrack(curr, 0, 0, n);
+
         return ans;
     }
 };
