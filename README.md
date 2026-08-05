@@ -67,6 +67,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/scout6774-66667/LEeTY/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/scout6774-66667/LEeTY/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/scout6774-66667/LEeTY/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/scout6774-66667/LEeTY/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
