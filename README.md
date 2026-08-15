@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/scout6774-66667/LEeTY/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/scout6774-66667/LEeTY/tree/master/1260-shift-2d-grid) |
@@ -28,6 +29,7 @@
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
