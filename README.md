@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/scout6774-66667/LEeTY/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/scout6774-66667/LEeTY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
@@ -123,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
@@ -298,6 +300,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
