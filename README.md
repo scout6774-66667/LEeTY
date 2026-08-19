@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/scout6774-66667/LEeTY/tree/master/1260-shift-2d-grid) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -175,6 +177,7 @@
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scout6774-66667/LEeTY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -186,6 +189,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -309,4 +313,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
