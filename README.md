@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/scout6774-66667/LEeTY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scout6774-66667/LEeTY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
