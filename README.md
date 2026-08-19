@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/scout6774-66667/LEeTY/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/scout6774-66667/LEeTY/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/scout6774-66667/LEeTY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -324,4 +325,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/scout6774-66667/LEeTY/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
