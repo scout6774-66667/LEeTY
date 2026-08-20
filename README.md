@@ -35,6 +35,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/scout6774-66667/LEeTY/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/scout6774-66667/LEeTY/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/scout6774-66667/LEeTY/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/scout6774-66667/LEeTY/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/scout6774-66667/LEeTY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -273,6 +275,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/scout6774-66667/LEeTY/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/scout6774-66667/LEeTY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
