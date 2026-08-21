@@ -337,8 +337,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/scout6774-66667/LEeTY/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0206-reverse-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
