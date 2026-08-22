@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/scout6774-66667/LEeTY/tree/master/0485-max-consecutive-ones) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/scout6774-66667/LEeTY/tree/master/1260-shift-2d-grid) |
