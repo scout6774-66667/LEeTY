@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/scout6774-66667/LEeTY/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/scout6774-66667/LEeTY/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/scout6774-66667/LEeTY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/scout6774-66667/LEeTY/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
@@ -221,6 +224,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
@@ -297,6 +301,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
