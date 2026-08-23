@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/scout6774-66667/LEeTY/tree/master/0485-max-consecutive-ones) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
@@ -42,6 +43,7 @@
 | [0062-unique-paths](https://github.com/scout6774-66667/LEeTY/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/scout6774-66667/LEeTY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scout6774-66667/LEeTY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
@@ -103,6 +105,7 @@
 | [0112-path-sum](https://github.com/scout6774-66667/LEeTY/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -381,4 +384,12 @@
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0876-middle-of-the-linked-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
