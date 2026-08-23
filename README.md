@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/scout6774-66667/LEeTY/tree/master/0485-max-consecutive-ones) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scout6774-66667/LEeTY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -206,6 +208,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/scout6774-66667/LEeTY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/scout6774-66667/LEeTY/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -213,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -344,6 +348,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/scout6774-66667/LEeTY/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
