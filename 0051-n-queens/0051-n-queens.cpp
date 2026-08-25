@@ -1,56 +1,86 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
 
-    bool safe(vector<string>& board, int row, int col, int n) {
+    // Check whether we can place a queen at (row, col)
+    bool isSafe(vector<string>& board, int row, int col, int n) {
 
-        // Check column
-        for (int i = 0; i < row; i++)
-            if (board[i][col] == 'Q')
+        // 1. Check the same column
+        for (int i = 0; i < row; i++) {
+            if (board[i][col] == 'Q') {
                 return false;
+            }
+        }
 
-        // Check upper-left diagonal
-        for (int i = row - 1, j = col - 1;
-             i >= 0 && j >= 0; i--, j--)
-            if (board[i][j] == 'Q')
-                return false;
+        // 2. Check upper-left diagonal
+        int i = row - 1;
+        int j = col - 1;
 
-        // Check upper-right diagonal
-        for (int i = row - 1, j = col + 1;
-             i >= 0 && j < n; i--, j++)
-            if (board[i][j] == 'Q')
+        while (i >= 0 && j >= 0) {
+            if (board[i][j] == 'Q') {
                 return false;
+            }
+
+            i--;
+            j--;
+        }
+
+        // 3. Check upper-right diagonal
+        i = row - 1;
+        j = col + 1;
+
+        while (i >= 0 && j < n) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
+
+            i--;
+            j++;
+        }
 
         return true;
     }
 
-    void solve(vector<string>& board, int row, int n) {
 
-        // All queens placed
+    void backtrack(vector<string>& board,
+                   int row,
+                   int n,
+                   vector<vector<string>>& ans) {
+
+        // All rows are filled
         if (row == n) {
             ans.push_back(board);
             return;
         }
 
-        // Try every column
+        // Try every column in this row
         for (int col = 0; col < n; col++) {
 
-            if (safe(board, row, col, n)) {
-
-                board[row][col] = 'Q';   // Choose
-
-                solve(board, row + 1, n); // Explore
-
-                board[row][col] = '.';   // Backtrack
+            // Check whether this position is safe
+            if (!isSafe(board, row, col, n)) {
+                continue;
             }
+
+            // Choose
+            board[row][col] = 'Q';
+
+            // Explore
+            backtrack(board, row + 1, n, ans);
+
+            // Undo / Backtrack
+            board[row][col] = '.';
         }
     }
 
+
     vector<vector<string>> solveNQueens(int n) {
 
+        vector<vector<string>> ans;
+
+        // Create empty board
         vector<string> board(n, string(n, '.'));
 
-        solve(board, 0, n);
+        // Start from row 0
+        backtrack(board, 0, n, ans);
 
         return ans;
     }
