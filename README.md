@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/scout6774-66667/LEeTY/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/scout6774-66667/LEeTY/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/scout6774-66667/LEeTY/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/scout6774-66667/LEeTY/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/scout6774-66667/LEeTY/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/0056-merge-intervals) |
@@ -337,6 +338,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scout6774-66667/LEeTY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/scout6774-66667/LEeTY/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/scout6774-66667/LEeTY/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/scout6774-66667/LEeTY/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/0113-path-sum-ii) |
 ## Game Theory
