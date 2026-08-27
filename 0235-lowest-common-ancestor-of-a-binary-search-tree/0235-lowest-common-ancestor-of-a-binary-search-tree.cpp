@@ -1,29 +1,19 @@
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    TreeNode* lowestCommonAncestor(TreeNode* root,
+                                   TreeNode* p,
+                                   TreeNode* q) {
 
-        // Tree is empty
-        if (root == NULL)
-            return NULL;
+        // Both are on the left
+        if (p->val < root->val && q->val < root->val)
+            return lowestCommonAncestor(root->left, p, q);
 
-        // Found p or q
-        if (root == p || root == q)
-            return root;
+        // Both are on the right
+        if (p->val > root->val && q->val > root->val)
+            return lowestCommonAncestor(root->right, p, q);
 
-        // Search left subtree
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-
-        // Search right subtree
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-
-        // Found one node in each subtree
-        if (left != NULL && right != NULL)
-            return root;
-
-        // Return whichever side found a node
-        if (left != NULL)
-            return left;
-
-        return right;
+        // They are on different sides
+        // or one of them is the current node
+        return root;
     }
 };
