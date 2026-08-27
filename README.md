@@ -428,4 +428,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/scout6774-66667/LEeTY/tree/master/0037-sudoku-solver) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
