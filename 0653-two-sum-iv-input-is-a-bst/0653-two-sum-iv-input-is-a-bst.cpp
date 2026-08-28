@@ -1,21 +1,40 @@
 class Solution {
 public:
-    unordered_set<int> seen;
+
+    void inorder(TreeNode* root, vector<int>& arr) {
+        if (root == NULL)
+            return;
+
+        inorder(root->left, arr);
+        arr.push_back(root->val);
+        inorder(root->right, arr);
+    }
 
     bool findTarget(TreeNode* root, int k) {
 
-        if (root == NULL)
-            return false;
+        vector<int> arr;
 
-        // Check if complement exists
-        if (seen.count(k - root->val))
-            return true;
+        // Convert BST into sorted array
+        inorder(root, arr);
 
-        // Store current value
-        seen.insert(root->val);
+        int left = 0;
+        int right = arr.size() - 1;
 
-        // Search left or right subtree
-        return findTarget(root->left, k) ||
-               findTarget(root->right, k);
+        // Two pointer approach
+        while (left < right) {
+
+            int sum = arr[left] + arr[right];
+
+            if (sum == k)
+                return true;
+
+            else if (sum < k)
+                left++;
+
+            else
+                right--;
+        }
+
+        return false;
     }
 };
