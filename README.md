@@ -96,6 +96,7 @@
 | [0226-invert-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -116,6 +117,7 @@
 | [0112-path-sum](https://github.com/scout6774-66667/LEeTY/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
@@ -181,6 +183,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scout6774-66667/LEeTY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/scout6774-66667/LEeTY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scout6774-66667/LEeTY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -273,6 +276,7 @@
 | [0226-invert-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -301,6 +305,7 @@
 | [0226-invert-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -453,6 +458,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/scout6774-66667/LEeTY/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
