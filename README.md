@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scout6774-66667/LEeTY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/scout6774-66667/LEeTY/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -249,6 +250,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
@@ -476,4 +478,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/scout6774-66667/LEeTY/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
