@@ -254,6 +254,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/scout6774-66667/LEeTY/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -458,6 +459,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/scout6774-66667/LEeTY/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
