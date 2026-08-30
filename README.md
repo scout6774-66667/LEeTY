@@ -26,6 +26,7 @@
 | [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/scout6774-66667/LEeTY/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/scout6774-66667/LEeTY/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -172,6 +173,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/scout6774-66667/LEeTY/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/scout6774-66667/LEeTY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1331-rank-transform-of-an-array](https://github.com/scout6774-66667/LEeTY/tree/master/1331-rank-transform-of-an-array) |
@@ -259,6 +261,7 @@
 | [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/scout6774-66667/LEeTY/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -345,6 +348,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
