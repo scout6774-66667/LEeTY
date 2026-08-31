@@ -173,6 +173,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/scout6774-66667/LEeTY/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/scout6774-66667/LEeTY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/scout6774-66667/LEeTY/tree/master/0169-majority-element) |
+| [0460-lfu-cache](https://github.com/scout6774-66667/LEeTY/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -436,6 +437,7 @@
 | [0206-reverse-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/scout6774-66667/LEeTY/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0876-middle-of-the-linked-list) |
 ## Knapsack Problem
 |  |
@@ -469,6 +471,7 @@
 | [0225-implement-stack-using-queues](https://github.com/scout6774-66667/LEeTY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/scout6774-66667/LEeTY/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0460-lfu-cache](https://github.com/scout6774-66667/LEeTY/tree/master/0460-lfu-cache) |
 ## Iterator
 |  |
 | ------- |
@@ -486,4 +489,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/scout6774-66667/LEeTY/tree/master/0020-valid-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/scout6774-66667/LEeTY/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
