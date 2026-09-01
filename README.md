@@ -271,6 +271,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/scout6774-66667/LEeTY/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/scout6774-66667/LEeTY/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/scout6774-66667/LEeTY/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -359,6 +360,7 @@
 | [0042-trapping-rain-water](https://github.com/scout6774-66667/LEeTY/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/scout6774-66667/LEeTY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/scout6774-66667/LEeTY/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/scout6774-66667/LEeTY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
@@ -482,6 +484,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/scout6774-66667/LEeTY/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/scout6774-66667/LEeTY/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/scout6774-66667/LEeTY/tree/master/0901-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -517,4 +520,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/scout6774-66667/LEeTY/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/scout6774-66667/LEeTY/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
