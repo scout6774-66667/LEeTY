@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/scout6774-66667/LEeTY/tree/master/0496-next-greater-element-i) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/scout6774-66667/LEeTY/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/scout6774-66667/LEeTY/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/scout6774-66667/LEeTY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/scout6774-66667/LEeTY/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/scout6774-66667/LEeTY/tree/master/1288-remove-covered-intervals) |
@@ -68,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/scout6774-66667/LEeTY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/scout6774-66667/LEeTY/tree/master/0074-search-a-2d-matrix) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/scout6774-66667/LEeTY/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/scout6774-66667/LEeTY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/scout6774-66667/LEeTY/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
@@ -126,6 +128,7 @@
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/scout6774-66667/LEeTY/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/scout6774-66667/LEeTY/tree/master/3310-remove-methods-from-project) |
