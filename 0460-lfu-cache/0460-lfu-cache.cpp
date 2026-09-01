@@ -2,43 +2,37 @@
 using namespace std;
 
 class LFUCache {
-    int capacity, minFreq;
-
+    int capacity;
+    
     // key -> {value, frequency}
-    unordered_map<int, pair<int,int>> mp;
-
+    unordered_map<int, pair<int,int>> data;
+    
     // frequency -> keys
     unordered_map<int, list<int>> freq;
-
-    // key -> position
-    unordered_map<int, list<int>::iterator> pos;
-
-    void update(int key) {
-        int f = mp[key].second;
-
-        freq[f].erase(pos[key]);
-
-        if (freq[f].empty() && minFreq == f)
-            minFreq++;
-
-        mp[key].second++;
-
-        freq[f + 1].push_front(key);
-        pos[key] = freq[f + 1].begin();
-    }
+    
+    int minFreq = 0;
 
 public:
     LFUCache(int capacity) {
         this->capacity = capacity;
-        minFreq = 0;
     }
 
     int get(int key) {
-        if (!mp.count(key))
+        if (!data.count(key))
             return -1;
 
-        update(key);
-        return mp[key].first;
+        int value = data[key].first;
+        int f = data[key].second;
+
+        freq[f].remove(key);
+        freq[f + 1].push_front(key);
+
+        data[key].second++;
+
+        if (freq[minFreq].empty())
+            minFreq++;
+
+        return value;
     }
 
     void put(int key, int value) {
@@ -46,25 +40,23 @@ public:
             return;
 
         // Key already exists
-        if (mp.count(key)) {
-            mp[key].first = value;
-            update(key);
+        if (data.count(key)) {
+            data[key].first = value;
+            get(key);   // increase frequency
             return;
         }
 
-        // Cache full
-        if (mp.size() == capacity) {
+        // Cache is full
+        if (data.size() == capacity) {
             int oldKey = freq[minFreq].back();
 
             freq[minFreq].pop_back();
-            mp.erase(oldKey);
-            pos.erase(oldKey);
+            data.erase(oldKey);
         }
 
         // Add new key
-        mp[key] = {value, 1};
+        data[key] = {value, 1};
         freq[1].push_front(key);
-        pos[key] = freq[1].begin();
 
         minFreq = 1;
     }
