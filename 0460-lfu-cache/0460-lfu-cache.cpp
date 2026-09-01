@@ -2,66 +2,60 @@
 using namespace std;
 
 class LFUCache {
-    int cap, minFreq;
+    int capacity;
+    int time = 0;
 
-    // key -> {value, frequency}
-    unordered_map<int, pair<int, int>> data;
-
-    // frequency -> keys (front = most recent)
-    unordered_map<int, list<int>> freqList;
-
-    // key -> position in its list
-    unordered_map<int, list<int>::iterator> pos;
-
-    void increaseFreq(int key) {
-        int freq = data[key].second;
-
-        freqList[freq].erase(pos[key]);
-
-        if (freqList[freq].empty() && minFreq == freq)
-            minFreq++;
-
-        data[key].second++;
-        freqList[freq + 1].push_front(key);
-        pos[key] = freqList[freq + 1].begin();
-    }
+    // key -> {value, frequency, last used time}
+    unordered_map<int, tuple<int, int, int>> mp;
 
 public:
     LFUCache(int capacity) {
-        cap = capacity;
-        minFreq = 0;
+        this->capacity = capacity;
     }
 
     int get(int key) {
-        if (!data.count(key))
+        if (!mp.count(key))
             return -1;
 
-        increaseFreq(key);
-        return data[key].first;
+        auto &[value, freq, last] = mp[key];
+
+        freq++;
+        last = ++time;
+
+        return value;
     }
 
     void put(int key, int value) {
-        if (cap == 0)
+        if (capacity == 0)
             return;
 
-        if (data.count(key)) {
-            data[key].first = value;
-            increaseFreq(key);
+        if (mp.count(key)) {
+            auto &[v, freq, last] = mp[key];
+
+            v = value;
+            freq++;
+            last = ++time;
             return;
         }
 
-        if (data.size() == cap) {
-            int oldKey = freqList[minFreq].back();
+        if (mp.size() == capacity) {
+            int removeKey = -1;
+            int minFreq = INT_MAX;
+            int oldTime = INT_MAX;
 
-            freqList[minFreq].pop_back();
-            data.erase(oldKey);
-            pos.erase(oldKey);
+            for (auto &[k, data] : mp) {
+                auto [v, f, t] = data;
+
+                if (f < minFreq || (f == minFreq && t < oldTime)) {
+                    minFreq = f;
+                    oldTime = t;
+                    removeKey = k;
+                }
+            }
+
+            mp.erase(removeKey);
         }
 
-        data[key] = {value, 1};
-        freqList[1].push_front(key);
-        pos[key] = freqList[1].begin();
-
-        minFreq = 1;
+        mp[key] = {value, 1, ++time};
     }
 };
