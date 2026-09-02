@@ -107,6 +107,7 @@
 | [0572-subtree-of-another-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/scout6774-66667/LEeTY/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/scout6774-66667/LEeTY/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -128,6 +129,7 @@
 | [0322-coin-change](https://github.com/scout6774-66667/LEeTY/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/scout6774-66667/LEeTY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/scout6774-66667/LEeTY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/scout6774-66667/LEeTY/tree/master/0994-rotting-oranges) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/scout6774-66667/LEeTY/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/scout6774-66667/LEeTY/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/scout6774-66667/LEeTY/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scout6774-66667/LEeTY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/scout6774-66667/LEeTY/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scout6774-66667/LEeTY/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -528,4 +532,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/scout6774-66667/LEeTY/tree/master/0901-online-stock-span) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/scout6774-66667/LEeTY/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
