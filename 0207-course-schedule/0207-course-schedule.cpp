@@ -5,26 +5,28 @@ public:
              vector<vector<int>>& graph,
              vector<int>& state) {
 
-        // Already in current DFS path
-        // => cycle
-        if (state[node] == 1)
+        // Currently visiting -> cycle found
+        if (state[node] == 1) {
             return false;
-
-        // Already completed
-        if (state[node] == 2)
-            return true;
-
-        // Mark as visiting
-        state[node] = 1;
-
-        // Visit neighbors
-        for (int next : graph[node]) {
-
-            if (!dfs(next, graph, state))
-                return false;
         }
 
-        // Finished
+        // Already completely processed
+        if (state[node] == 2) {
+            return true;
+        }
+
+        // Mark as currently visiting
+        state[node] = 1;
+
+        // Visit all neighbors
+        for (int neighbor : graph[node]) {
+
+            if (!dfs(neighbor, graph, state)) {
+                return false;
+            }
+        }
+
+        // Mark as completely processed
         state[node] = 2;
 
         return true;
@@ -36,13 +38,17 @@ public:
         // Build graph
         vector<vector<int>> graph(numCourses);
 
-        for (auto p : prerequisites) {
-            graph[p[1]].push_back(p[0]);
+        for (auto& p : prerequisites) {
+
+            int course = p[0];
+            int prerequisite = p[1];
+
+            graph[prerequisite].push_back(course);
         }
 
-        // 0 = not visited
+        // 0 = unvisited
         // 1 = visiting
-        // 2 = finished
+        // 2 = completed
         vector<int> state(numCourses, 0);
 
         // Check every course
@@ -50,8 +56,9 @@ public:
 
             if (state[i] == 0) {
 
-                if (!dfs(i, graph, state))
+                if (!dfs(i, graph, state)) {
                     return false;
+                }
             }
         }
 
